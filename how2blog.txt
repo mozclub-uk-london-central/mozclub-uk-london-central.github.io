@@ -1,0 +1,107 @@
+First post
+
+We had a successful club last night and booked the next event for 2.2.2016.
+
+One of the main objectives of the club is for each member to have their own blog by the end of the sixth session.
+
+Here is my first post.
+
+I wanted to log our actions as it is so easy to get lost once things get started.
+
+It is also very difficult to know what to write, so here is a stream of consciousness piece.
+
+We started with introductions, thankfully David and Sarah had this covered, as I was a teensy bit late.
+
+I had run from a code club elsewhere in london, so by the time I got there most things were pretty under way.
+
+Sarah is the mozilla community manager and was responsible for ensuring along with a great team that Mozilla festival ran without a hitch.
+
+We had met the day before to settle my nerves, and discuss the general direction of the meeting.
+
+David is a fellow mozillan and serial volunteer at mozfest and also is currently chomping his way through the freecodecamp syllabus found here:
+
+http://www.freecodecamp.com/
+
+Paul is  a fellow #cgjam mentor and has experience of setting up websites, including his new site:
+
+http://sonicpimentor.com/
+
+Then we had our two new recruits who found each other working through programming courses at work and decided to expand into a more social learning experience.
+
+Their main experience had come from here:
+
+https://www.codecademy.com/
+
+As I am aiming to get this published I'm going to keep this quite short, but first a quote:
+
+“ Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ” - Martin Fowler
+
+Found here:
+
+http://www.marcofolio.net/tips/27_inspiring_top_notch_programming_quotes.html
+
+
+
+Steps to create this blog
+
+Create a gmail account:
+
+You can use any mail account, but sometimes the path of least resistance is beneficial and google accounts do carry the advantage of google docs etc:
+
+https://accounts.google.com/SignUp
+
+mozclub.uk.london.central@gmail.com
+
+Da Da!!!
+
+With this create a git hub account:
+
+mozclub-uk-london-central
+
+You might like to follow the first steps found here and learn how to create a change to a file and understand the workflow in a github project:
+
+https://guides.github.com/activities/hello-world/
+
+Somehow I managed to create two pull requests, a bit happy with the button clicking possibly?
+
+Then I was presented with two links to explore:
+
+1. https://guides.github.com/introduction/flow/index.html
+
+2. https://github.com/explore
+
+You might instead just go ahead and start your blog with the instructions here:
+
+https://pages.github.com/
+
+The blog account is mozclub-uk-london-central so our website repo will be called mozclub-uk-london-central.github.io
+
+It's a bit of a longie but I wanted the option of other clubs having repos in a similar form ie mozclub region area.
+
+This reflects the coderdojo methodology if you elect to have one of those at any time.
+
+You could use the command line, but for all you click happy gooey guys, here's the alternative:
+
+Find your repository and click new file.
+
+In the blank box type index.html
+
+On line one type:
+
+ Hello World
+
+Stick with the a simple commit title like:
+
+Created index.html
+
+You can also add some additional text:
+
+I hope we see this site at http://myname.github.io
+
+I'm going to push this file up so I can't procrastinate about it.
+
+vSo on the site you will see an index.html file with a link to tutorial.txt
+
+I'll add the markdown later ;)
+
+Bye for now!
